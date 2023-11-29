@@ -1,10 +1,11 @@
-
 import { NextPage } from 'next'
 
-const Home: NextPage = () => {
+const Home: NextPage = async () => {
   return (
     <>
       <h1>Hello World</h1>
+
+
     </>
   )
 }
